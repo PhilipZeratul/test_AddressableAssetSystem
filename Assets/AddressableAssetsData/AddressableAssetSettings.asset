@@ -22,6 +22,8 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: dad00512691861b40a04e9d085dd3978, type: 2}
   - {fileID: 11400000, guid: 1c13d3928c5cb4041ad8885ee70b378c, type: 2}
+  - {fileID: 11400000, guid: 75ae1e6f064b7d04c9a24ddddeebd5a9, type: 2}
+  - {fileID: 11400000, guid: 0b40cf4e317fd72499918cb8f0e87f9e, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -32,6 +34,20 @@ MonoBehaviour:
     - m_InheritedParent: 
       m_Id: ee7ce575d929b5f4fab2688888f8e0a9
       m_ProfileName: Default
+      m_Values:
+      - m_Id: 91da6dae6c746854c8cef3944016950e
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 6efb7f177ed0faf43a4acef00dcb132e
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 02b76b8c61739e846ba7db89b7d5e5ac
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 2b3b8121776a39e448be69e18ab199d8
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 7439e792299ebe24195695342a9f8b10
+        m_Value: http://localhost/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: a23342c6b82180848bb53eaded4e7d8f
+      m_ProfileName: Remote Profile
       m_Values:
       - m_Id: 91da6dae6c746854c8cef3944016950e
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
